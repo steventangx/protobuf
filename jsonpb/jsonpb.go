@@ -40,7 +40,7 @@ package jsonpb
 
 import (
 	"bytes"
-	"encoding/json"
+	"github.com/json-iterator/go"
 	"errors"
 	"fmt"
 	"io"
